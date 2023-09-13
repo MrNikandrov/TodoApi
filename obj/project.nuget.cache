@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "meaJUO/9hsaB9Xe+9jHgtGYJajAgLaiOxVprmDPk7a6y53VCDq0qSs1KGcdRhu4MZJG4nEYqYzShxFP0gTZ6sA==",
+  "dgSpecHash": "esJKLLzbneZ7dNVb3jQudlFZAwmcP74yDAcg3rnkIGaejlGX/tsJgbIPWE0eBe3zQ22iO3QoCdektDDvpvPoiw==",
   "success": true,
-  "projectFilePath": "c:\\обучение\\FromGit\\TodoApi\\TodoApi\\TodoApi.csproj",
+  "projectFilePath": "C:\\обучение\\FromGit\\TodoApi\\TodoApi\\TodoApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\D3viL\\.nuget\\packages\\microsoft.aspnet.webapi.client\\5.2.6\\microsoft.aspnet.webapi.client.5.2.6.nupkg.sha512",
     "C:\\Users\\D3viL\\.nuget\\packages\\microsoft.aspnetcore\\2.1.1\\microsoft.aspnetcore.2.1.1.nupkg.sha512",
